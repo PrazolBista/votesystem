@@ -14,7 +14,7 @@ This is a guide on how to install and set up the Voting Management System on XAM
 
 2. Extract the file: After downloading the file, extract it using your preferred archive manager. You should see a folder named "voting management system".
 
-3. Copy the folder: Copy the "votesystem" folder to the root directory where you installed XAMPP. This is usually located in the C:/ drive under the htdocs folder. ( For xample: C:\xampp\htdocs)
+3. Copy the folder: Copy the "votesystem" folder to the root directory where you installed XAMPP. This is usually located in the C:/ drive under the htdocs folder. ( For xample: <b><i> C:\xampp\htdocs </b></i>)
 
 4. Open PHPMyAdmin: Start XAMPP and open the PHPMyAdmin interface by visiting http://localhost/phpmyadmin.
 
