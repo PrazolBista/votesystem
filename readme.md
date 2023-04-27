@@ -27,4 +27,4 @@ This is a guide on how to install and set up the Voting Management System on XAM
    - Username: prazol
    - Password: password
 
-That's it! You should now be able to use the Voting Management System.
+<b>That's it! You should now be able to use the Voting Management System.</b>
